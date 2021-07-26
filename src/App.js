@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          minimal viable mondays 
+          minimal viable mondays !!! ¯\_(ツ)_/¯ 
         </p>
       </header>
     </div>
